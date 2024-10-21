@@ -1,0 +1,13 @@
+5
+a b c d e *
+1
+8
+a b 1
+a c 2
+a d 3
+d e 4
+b a 1
+c a 2
+d a 3
+d c 5
+$
