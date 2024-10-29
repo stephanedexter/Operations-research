@@ -1,0 +1,1 @@
+# Méthodes du premier ordre pour la régression à grande échelle
